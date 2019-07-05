@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "248046160566",
+    "firebase_url": "https://fit-actions.firebaseio.com",
+    "project_id": "fit-actions",
+    "storage_bucket": "fit-actions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248046160566:android:6658644aa090b83a",
+        "android_client_info": {
+          "package_name": "com.dexcom.fitactions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248046160566-36rnu3dn1gqt3c9kff3numuodrpgg6t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzuE7bMW0_Z2cFZdLIoB2xPpDjdrTdOEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248046160566-36rnu3dn1gqt3c9kff3numuodrpgg6t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
