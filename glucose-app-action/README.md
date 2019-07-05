@@ -12,8 +12,6 @@ Specifically, this sample supports the following BIIs:
 * `GET_EXERCISE_OBSERVATION` - displays a [Slice](https://developer.android.com/guide/slices) inside
 the Assistant with information on a particular exercise statistic
 
-![alt-text](media/fit-actions-demo.gif "App Actions Demo")
-
 ## App Actions overview
 
 With [App Actions](https://developers.google.com/actions/app/ ), your app can be triggered by users
